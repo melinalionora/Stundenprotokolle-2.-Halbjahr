@@ -17,6 +17,9 @@ In dieser Stunde haben wir uns geeinigt, dass wir einen "Lügendetektor" bauen m
 In dieser Stunde haben wir uns näher mit dem Arduino beschäftigt. Wir haben uns Zusammenhänge angeguckt und uns mit den Funktionen eines Arduinos beschäftigt. Dazu haben wir die Materialien von Herrn Buhl bekommen. 
 
 ## 07. März 2023 
-In der heutigen Stunde 
+In dieser Woche haben wir nach Rücksprache mit Herrn Buhl beschlossen, dass wir bis zur ersten Abgabe Zusammenhänge des Arduinos, des Transistors usw. verstehen sollen und eigenständig Aufgaben wie das Leuchten eines LEDs mit einem Transistor durchführen wollen. 
+
+## 14. März 2023
+In dieser Stunde haben wir das erste mal versucht, einen LED über einen Arduino zum leuchten zu bringen. Dies konnten wir erfolgreich durchführen, Bilder dazu befinden sich in unserer folgenden Projektseite. 
 
 
