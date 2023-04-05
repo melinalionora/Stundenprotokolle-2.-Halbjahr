@@ -19,13 +19,18 @@ In dieser Stunde haben wir uns näher mit dem Arduino beschäftigt. Wir haben un
 ## 07. März 2023 
 In dieser Woche haben wir nach Rücksprache mit Herrn Buhl beschlossen, dass wir bis zur ersten Abgabe Zusammenhänge des Arduinos, des Transistors usw. verstehen sollen und eigenständig Aufgaben wie das Leuchten eines LEDs mit einem Transistor durchführen wollen. 
 
-## 14. März 2023
+## 14. 
+März 2023
 In dieser Stunde haben wir das erste mal versucht, einen LED über einen Arduino zum leuchten zu bringen. Dies konnten wir erfolgreich durchführen, Bilder dazu befinden sich in unserer folgenden Projektseite. 
 
 ## 21. März 2023
-
+Heute haben wir uns mit dem Transistor und dem Widerstand beschäftigt. Dafür haben wir uns verschiedene Tutorials angeschaut und uns über verschiedene Webseiten informiert. Dabei haben wir herausgefunden, dass der Transistor wie ein geöffneter Schalter wirkt. 
 
 ## 28. März 2023
+Heute haben wir größtenteils an unserer Projektseite gearbeitet, da wir in den letzten Wochen da etwas hinterher waren. Daher haben wir uns in dieser Stunde kaum mit dem Arduino beschäftigt.
+
+## 05. April 2023
+Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unserem Projekt, bzw, unserem Zwischenstand beschäftigt haben. Wir haben uns sowohl weiterhin mit dem Transistor beschäftigt und uns das ziel gesetzt, über einen Transistor ein LED zun leuchten zu bringen, als auch weiter an unserer Projektseite gearbeitet. 
 
 ![Bild1](Bilder/Bild1.png "Arduino LED")
 
