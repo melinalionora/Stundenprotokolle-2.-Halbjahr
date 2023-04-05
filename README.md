@@ -34,3 +34,5 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 
 ![Bild1](Bilder/Bild1.png "Arduino LED")
 
+## Was ist ein Arduino?
+Ein Arduino ist ein Steuersystem, bei dem 
