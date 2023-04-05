@@ -19,8 +19,7 @@ In dieser Stunde haben wir uns näher mit dem Arduino beschäftigt. Wir haben un
 ## 07. März 2023 
 In dieser Woche haben wir nach Rücksprache mit Herrn Buhl beschlossen, dass wir bis zur ersten Abgabe Zusammenhänge des Arduinos, des Transistors usw. verstehen sollen und eigenständig Aufgaben wie das Leuchten eines LEDs mit einem Transistor durchführen wollen. 
 
-## 14. 
-März 2023
+## 14.März 2023
 In dieser Stunde haben wir das erste mal versucht, einen LED über einen Arduino zum leuchten zu bringen. Dies konnten wir erfolgreich durchführen, Bilder dazu befinden sich in unserer folgenden Projektseite. 
 
 ## 21. März 2023
@@ -35,4 +34,4 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 ![Bild1](Bilder/Bild1.png "Arduino LED")
 
 ## Was ist ein Arduino?
-Ein Arduino ist ein Steuersystem, bei dem 
+Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht 
