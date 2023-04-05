@@ -49,4 +49,4 @@ Das Leuchten der LED Lampe über einen Transistor war sehr ähnlich wie die erst
 Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er sollte, weswegen wir auf einen Relais zurückgreifen mussten. Dieser wurde über das Netzteil an die Glühlampe angeschlossen, welche wiederrum an das Netzteil angeschlossen war. Der Strom, welcher über das Netzteil fließt, ist nämlich stärker, als der Strom vom Arduino.
 
 4. Motor über das Netzteil laufen lassen
-Bei dieser Teilafgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. 
+Bei dieser Teilafgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. m
