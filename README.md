@@ -31,7 +31,7 @@ Heute haben wir uns mit dem Transistor und dem Widerstand beschäftigt. Dafür h
 Heute haben wir größtenteils an unserer Projektseite gearbeitet, da wir in den letzten Wochen da etwas hinterher waren. Daher haben wir uns in dieser Stunde kaum mit dem Arduino beschäftigt.
 
 ## 05. April 2023
-Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unserem Projekt, bzw, unserem Zwischenstand beschäftigt haben. Wir haben uns sowohl weiterhin mit dem Transistor beschäftigt und uns das ziel gesetzt, über einen Transistor ein LED zun leuchten zu bringen, als auch weiter an unserer Projektseite gearbeitet. 
+Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unserem Projekt, bzw, unserem Zwischenstand beschäftigt haben. Wir haben uns sowohl weiterhin mit dem Transistor beschäftigt und uns das ziel gesetzt, über einen Transistor ein LED zun leuchten zu bringen, als auch weiter an unserer Projektseite gearbeitet. Auch weitere Aufgaben, die wir an dem Tag zu erledigen hatten, konnten wir fertigstellen (siehe Teilaufgaben). 
 
 
 ## Was ist ein Arduino?
@@ -49,4 +49,4 @@ Das Leuchten der LED Lampe über einen Transistor war sehr ähnlich wie die erst
 Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er sollte, weswegen wir auf einen Relais zurückgreifen mussten. Dieser wurde über das Netzteil an die Glühlampe angeschlossen, welche wiederrum an das Netzteil angeschlossen war. Der Strom, welcher über das Netzteil fließt, ist nämlich stärker, als der Strom vom Arduino.
 
 4. Motor über das Netzteil laufen lassen
-Bei dieser Teilafgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. m
+Bei dieser Teilafgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. 
