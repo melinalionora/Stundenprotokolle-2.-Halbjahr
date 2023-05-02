@@ -39,18 +39,18 @@ Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und ei
 
 ## Teilaufgaben <a name="Teilaufgaben"></a> 
 
-## 1. LED mit einem Arduino zum leuchten bringen
+1. LED mit einem Arduino zum leuchten bringen
 
 Diese Teilaufgabe empfanden wir beide als relativ einfach und konnten diese schnell umsetzen. Der Strom wurde über den Arduino erzeugt und wir konnten so die LED Lampe zum leuchten bringen. Je nach Sketch konnten wir selber gucken, in welchem Takt die LED Lampe an und ausgeschaltet sein soll. 
 
-## 2. LED über einen Transistor zum leuchten bringen
+2. LED über einen Transistor zum leuchten bringen
 
 Das Leuchten der LED Lampe über einen Transistor war sehr ähnlich wie die erste Teilaufgabe. Der Unterschied war, dass nun der Strom von rechts nach links über den Transistor fließt. Auch der Sketch war fast der selbe wie bei der ersten Teilaufgabe. 
 
-## 3. Glühlampe über einen Transistor, bzw. einem Relais zum leuchten bringen
+3. Glühlampe über einen Transistor, bzw. einem Relais zum leuchten bringen
 
 Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er sollte, weswegen wir auf einen Relais zurückgreifen mussten. Dieser wurde über das Netzteil an die Glühlampe angeschlossen, welche wiederrum an das Netzteil angeschlossen war. Der Strom, welcher über das Netzteil fließt, ist nämlich stärker, als der Strom vom Arduino.
 
-## 4. Motor über das Netzteil laufen lassen
+4. Motor über das Netzteil laufen lassen
 
-Bei dieser Teilafgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. 
+Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. 
