@@ -10,7 +10,6 @@ Ein Projekt von Lionora Ajvazi und Melina Safari
 [Teilaufgaben](#Teilaufgaben)
 
 
-
 ## Stundenprotokolle
 
 ## 14. Februar 2023
@@ -65,3 +64,7 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 
 Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
 
+
+## Reflexion 
+
+Insgesamt können wir unsere ersten Erfahrungen mit dem Arduino als gelungen und Erfolgreich bewerten. Wir haben beide das ersteb mal mit einem
