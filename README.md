@@ -38,7 +38,7 @@ Heute haben wir größtenteils an unserer Projektseite gearbeitet, da wir in den
 Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unserem Projekt, bzw, unserem Zwischenstand beschäftigt haben. Wir haben uns sowohl weiterhin mit dem Transistor beschäftigt und uns das ziel gesetzt, über einen Transistor ein LED zun leuchten zu bringen, als auch weiter an unserer Projektseite gearbeitet. Auch weitere Aufgaben, die wir an dem Tag zu erledigen hatten, konnten wir fertigstellen (siehe Teilaufgaben). 
 
 ## 02. Mai 2023
-In der heutigen Stunde haben wir uns getrennt von unserer Protokollseite eine Projektseite erstellt. Aufgrund von Missverständissen hatten wir bislang alle unsere Ergebnisse auf einer Seite, konnten diese jetzt jedoch gut übertragen. 
+In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. 
 
 
 ## Arduino
@@ -48,7 +48,7 @@ Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und ei
 
 1. LED mit einem Arduino zum leuchten bringen
 
-Diese Teilaufgabe konnte schnell umgesetzt werden. Der Strom wurde über den Arduino erzeugt und so konnte die LED Lampe leuchten. Je nach Sketch kann man dabei selber entscheiden, in welchem Takt, bzw. wie lange 
+Diese Teilaufgabe konnte schnell umgesetzt werden. Der Strom wurde über den Arduino erzeugt und so konnte die LED Lampe leuchten. Je nach Sketch kann man dabei selber entscheiden, in welchem Takt, bzw. wie lange die Lampe leuchtet. 
 
 2. LED über einen Transistor zum leuchten bringen
 
@@ -60,4 +60,4 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 
 4. Motor über das Netzteil laufen lassen
 
-Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der vierten Teilaufgabe. 
+Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
