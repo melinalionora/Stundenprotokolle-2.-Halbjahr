@@ -5,7 +5,11 @@ Ein Projekt von Lionora Ajvazi und Melina Safari
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
+[Arduino](#Arduino)
+
 [Teilaufgaben](#Teilaufgaben)
+
+
 
 ## Stundenprotokolle
 
@@ -37,8 +41,8 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 In der heutigen Stunde haben wir uns getrennt von unserer Protokollseite eine Projektseite erstellt. Aufgrund von Missverständissen hatten wir bislang alle unsere Ergebnisse auf einer Seite, konnten diese jetzt jedoch gut übertragen. 
 
 
-## Was ist ein Arduino?
-Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. 
+## Arduino
+Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sonder um einen Microcontroller. 
 
 ## Teilaufgaben
 
