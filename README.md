@@ -7,7 +7,7 @@ Ein Projekt von Lionora Ajvazi und Melina Safari
 
 [Teilaufgaben](#Teilaufgaben)
 
-## Stundenprotokolle <a name="Stundenprotokolle"></a> 
+## Stundenprotokolle
 
 ## 14. Februar 2023
 In der heutigen Stunde haben wir damit angefangen, unser neues Projekt für das zweite Halbjahr auszusuchen. Wir sind uns einig, dass wir etwas mit einem Arduino bauen möchten und haben uns daher darüber informiert und uns die vorhandenen Materialien in der Schule angeguckt. Daher, dass wir für das zweite Halbjahr einen neuen Stundenplan bekommen haben, gab es zu beginn einige Komplikationen, wie bzw. wann wir anfangen. 
@@ -40,7 +40,7 @@ In der heutigen Stunde haben wir uns getrennt von unserer Protokollseite eine Pr
 ## Was ist ein Arduino?
 Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. 
 
-## Teilaufgaben <a name="Teilaufgaben"></a> 
+## Teilaufgaben
 
 1. LED mit einem Arduino zum leuchten bringen
 
