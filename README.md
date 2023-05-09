@@ -44,7 +44,6 @@ In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und u
 ## Arduino
 Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sonder um einen Microcontroller. 
 
-![bsp arduino](image/Bild1.png "Screenshot von Arduino")
 
 ## Teilaufgaben
 
@@ -63,3 +62,8 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 4. Motor über das Netzteil laufen lassen
 
 Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
+
+## LED mit einem Arduino zum leuchten bringen  
+
+
+![bsp arduino](image/Bild1.png "Screenshot von Arduino")
