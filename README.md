@@ -67,4 +67,4 @@ Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt
 
 ## Reflexion 
 
-Insgesamt können wir unsere ersten Erfahrungen mit dem Arduino als gelungen und Erfolgreich bewerten. Wir haben beide das ersteb mal mit einem
+Insgesamt können wir unsere ersten Erfahrungen mit dem Arduino als gelungen und Erfolgreich bewerten. Wir haben beide das erste mal mit einem Arduino gearbeitet und wollten, bzw. sollten erst einmal nur die Funktionen und Strukturen eines Arduinos herausfinden. Daher haben wir uns vorgenommen, uns mit oben genannten Teilaufgaben zu beschäftigen. Dabei haben wir dennoch Hilfe von Herrn Buhl erhalten und Tipps bekommen, wie wir welche Schritte zuerst umsetzen. 
