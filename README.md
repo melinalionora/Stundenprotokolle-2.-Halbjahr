@@ -45,6 +45,9 @@ Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und ei
 
 ![bsp arduino](image/Bild1.png "Screenshot von Arduino")
 
+## Transistor 
+Ein Transistor ist ein elektronisches Halbleiter Bauelement zum Steuern oder Verstärken niedriger elektrischer Spannungen und Ströme. Er reguliert den Strom- oder Spannungsfluss wie ein Schalter für elektronische Signale und besteht aus drei Halbleiterschichten
+
 
 ## Teilaufgaben
 
