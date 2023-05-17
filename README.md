@@ -43,7 +43,7 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. 
 
 ## 17. Mai 2023
-Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektseite weitergearbeitet und uns über mehrere Quellen informiert. Des weiteren haben wir uns noch einmal genau unsere Teilaufgaben angeschaut und haben darauf hin einen Quellentext geschrieben.
+Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektseite weitergearbeitet und uns über mehrere Quellen informiert. Des weiteren haben wir uns noch einmal genau unsere Teilaufgaben angeschaut und haben darauf hin einen Quellentext geschrieben. Schlussendlich haben wir uns geeinigt, einen Berührungslosen Seifenspender zu bauen, dabei haben wir uns zunächst auf der Quelle https://starthardware.org/beruehrungsloser-seifenspender-mit-arduino/ darüber informiert.
 
 ## Bauteile
 Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
