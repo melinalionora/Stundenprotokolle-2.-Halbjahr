@@ -40,7 +40,7 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. 
 
 ## 17. Mai 2023
-
+Fachtag Nr. 2 
 
 ## Bauteile
 
