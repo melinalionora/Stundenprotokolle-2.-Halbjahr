@@ -9,6 +9,9 @@ Ein Projekt von Lionora Ajvazi und Melina Safari
 
 [Teilaufgaben](#Teilaufgaben)
 
+[Reflexion](#Reflexion)
+
+
 
 ## Stundenprotokolle
 
