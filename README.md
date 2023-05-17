@@ -1,6 +1,6 @@
 # Projekt 2. Halbjahr
 
-Ein Projekt von Lionora Ajvazi und Melina Safari
+Ein Projekt von Lionora Ajvazi und Melina Safari.
 
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
