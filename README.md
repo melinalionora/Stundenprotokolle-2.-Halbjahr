@@ -46,7 +46,7 @@ In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und u
 Fachtag Nr. 2 
 
 ## Bauteile
-Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Im folgenden erklären wir die Funktionen der Bauteile. 
+Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
 
 ## Arduino
 Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sonder um einen Microcontroller. 
