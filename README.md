@@ -5,7 +5,7 @@ Ein Projekt von Lionora Ajvazi und Melina Safari
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-[DieeinzelnenBauteile](#DieeinzelnenBauteile)
+[Bauteile](#Bauteile)
 
 [Teilaufgaben](#Teilaufgaben)
 
