@@ -40,7 +40,7 @@ Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unsere
 In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. 
 
 
-## Die einzelnen Bauteile
+## Bauteile
 
 ## Arduino
 Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sonder um einen Microcontroller. 
