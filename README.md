@@ -52,6 +52,9 @@ Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und ei
 ## Transistor
 Ein Transistor ist ein elektronisches Halbleiter Bauelement zum Steuern oder Verstärken niedriger elektrischer Spannungen und Ströme. Er reguliert den Strom- oder Spannungsfluss wie ein Schalter für elektronische Signale und besteht aus drei Halbleiterschichten
 
+## Relais 
+Ein Relais ist ein durch elektrischen Strom betriebener, fernbetätigter Schalter mit in der Regel zwei Schaltstellungen. Mit Hile von Relais von der Relais
+Stromkreise ein-, aus-, und umgeschaltet werden. 
 
 ## Teilaufgaben
 
