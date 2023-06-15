@@ -99,6 +99,8 @@ Ein Entfernungssensor misst den Abstand zwischen dem Sensor und einem Objekt. Da
 ## Servomotor
 Wir haben bei unserem Projekt den SG90 verwendet. Der SG90 ist ein kleiner Servomotor, auch genannt Micro- oder Minimotor. Er wird verwendet, wenn etwas in Bewegung zu bringen ist, dabei jedoch auf eine Motorsteuerung verzichtet werden soll. Die einzelnen Kabel, beziehungsweise wofür jeweils die drei Farben stehen, werden im unten gezeigten Bild dargestellt. 
 
+![bsp servomotor](image/Servo-Motor-Wires.png "Bild von servomotor")
+
 
 Die Schaltung sieht wie folgt aus:
 
