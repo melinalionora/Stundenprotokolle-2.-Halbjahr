@@ -92,6 +92,10 @@ Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt
 
 Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Materialien: Arduino, Breadbord, Kabel, Entfernungssensor und Servomotor. Damit der Seifenspender funktionieren kann, benötigen wir theoretisch noch Seife, allerdings kann man auch Wasser oder andere ähnliche Flüßigkeiten nehmen. 
 
+## Entfernungssensor
+
+Ein Entfernungssensor misst den Abstand zwischen dem Sensor und einem Objekt. Dabei sendet der Sensor ein klickendes Geräusch im Ultraschall-Bereich aus, um anschließend die Verzögerung des Echos zu messen. Je größer der Abstand zum nächsten Objekt, desto später kommt der Echo zurück.
+
 Die Schaltung sieht wie folgt aus:
 
 ![bsp_schaltung](image/IMG_3222.jpg "Bild Schaltung")
