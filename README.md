@@ -45,6 +45,10 @@ In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und u
 ## 17. Mai 2023
 Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektseite weitergearbeitet und uns über mehrere Quellen informiert. Des weiteren haben wir uns noch einmal genau unsere Teilaufgaben angeschaut und haben darauf hin einen Quellentext geschrieben. Schlussendlich haben wir uns geeinigt, einen Berührungslosen Seifenspender zu bauen, dabei haben wir uns zunächst auf der Quelle https://starthardware.org/beruehrungsloser-seifenspender-mit-arduino/ darüber informiert. 
 
+## 23. Mai 2023
+Heute haben wir uns näher über die einzelnen Bauteile informiert, die wir benötigen. Da all diese Materialien in der Schule vorhanden sind, können wir unsere Idee umsetzen. Wir haben zunächst damit angefangen, herauszufinden was ein Entfernungssensor und ein Servomot überhaupt sind, bzw. was deren Funktionen sind. 
+
+
 ## Bauteile
 Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
 
@@ -78,6 +82,9 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 
 Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
 
+## Projekt berührungsloser Seifenspender
+
+Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Materialien: Arduino, Breadbord, Kabel, Entfernungssensor und Servomotor. Damit der Seifenspender funktionieren kann, benötigen wir theoretisch noch Seife, allerdings kann man auch Wasser oder andere ähnliche Flüßigkeiten nehmen. 
 
 ## Reflexion 
 
