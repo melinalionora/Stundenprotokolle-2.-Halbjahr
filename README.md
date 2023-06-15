@@ -57,7 +57,7 @@ Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, T
 ## Arduino
 Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sondern um einen Microcontroller. 
 
-![bsp arduino](image/Bild1.png "Bild von Arduino")
+![bsp arduino](image/Arduino-Uno-SMD-side.webp "Bild von Arduino")
 
 ## Transistor
 Ein Transistor ist ein elektronisches Halbleiter Bauelement zum Steuern oder Verstärken niedriger elektrischer Spannungen und Ströme. Er reguliert den Strom- oder Spannungsfluss wie ein Schalter für elektronische Signale und besteht aus drei Halbleiterschichten, dem Ermitter, der Base und dem Collector. Hierbei fließt der Strom und die Spannung von dem Collector, durch die Base hin zu dem Ermitter. Bei unserem Versuch haben wir den Transistor s8550 verwendet. 
