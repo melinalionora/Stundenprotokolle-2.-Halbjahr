@@ -169,6 +169,7 @@ void loop()
 ## Verkabelung 
 
 *Arduino*
+
 Digital 6 -> Echo Entfernungssensor
 
 Digital 7 -> Trigger Entfernungssensor
@@ -181,11 +182,13 @@ GND       -> minus Breadboard
 
 
 *Breadboard*
+
 minus -> GND Arduino; GND Entfernungssensor; GND Servo
 
 plus  -> 5V Arduino; VCC Entfernungssensor; plus Servo
 
 *Servo*
+
 braun  -> minus Breadboard; GND Arduino
 
 rot    -> plus Breadboard; 5V Arduino
@@ -193,6 +196,7 @@ rot    -> plus Breadboard; 5V Arduino
 orange -> digital 8 Arduino
 
 *Entfernungssensor*
+
 VCC  -> plus Breadboard; 5V Arduino
 
 Trig -> digital 8 Arduino
