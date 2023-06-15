@@ -68,6 +68,8 @@ Ein Transistor ist ein elektronisches Halbleiter Bauelement zum Steuern oder Ver
 Ein Relais ist ein durch elektrischen Strom betriebener, fernbetätigter Schalter mit in der Regel zwei Schaltstellungen. Mit Hile von Relais von der Relais
 Stromkreise ein-, aus-, und umgeschaltet werden. 
 
+![bsp relais](image/s-l400.jpg "Bild von Relais")
+
 ## Teilaufgaben
 
 1. LED mit einem Arduino zum leuchten bringen
