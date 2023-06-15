@@ -96,6 +96,9 @@ Die Schaltung sieht wie folgt aus:
 
 ![bsp_schaltung](image/IMG_3222.jpg "Bild Schaltung")
 
+Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechend neue Kabel hinzugefügt. 
+
+
 ## Reflexion 
 
 Insgesamt können wir unsere ersten Erfahrungen mit dem Arduino als gelungen und Erfolgreich bewerten. Wir haben beide das erste mal mit einem Arduino gearbeitet und wollten, bzw. sollten erst einmal nur die Funktionen und Strukturen eines Arduinos herausfinden. Daher haben wir uns vorgenommen, uns mit oben genannten Teilaufgaben zu beschäftigen. Dabei haben wir dennoch Hilfe von Herrn Buhl erhalten und Tipps bekommen, wie wir welche Schritte zuerst umsetzen. 
