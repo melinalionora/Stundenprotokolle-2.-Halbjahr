@@ -89,14 +89,16 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
 
 ## Seifenspender
-
 Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Materialien: Arduino, Breadbord, Kabel, Entfernungssensor und Servomotor. Damit der Seifenspender funktionieren kann, benötigen wir theoretisch noch Seife, allerdings kann man auch Wasser oder andere ähnliche Flüßigkeiten nehmen. 
 
 ## Entfernungssensor
-
 Ein Entfernungssensor misst den Abstand zwischen dem Sensor und einem Objekt. Dabei sendet der Sensor ein klickendes Geräusch im Ultraschall-Bereich aus, um anschließend die Verzögerung des Echos zu messen. Je größer der Abstand zum nächsten Objekt, desto später kommt der Echo zurück.
 
 ![bsp_entfernungssensor](image/HC-SR04-Front.png "Bild von entfernungssensor")
+
+## Servomotor
+Wir haben bei unserem Projekt den SG90 verwendet. Der SG90 ist ein kleiner Servomotor, auch genannt Micro- oder Minimotor. Er wird verwendet, wenn etwas in Bewegung zu bringen ist, dabei jedoch auf eine Motorsteuerung verzichtet werden soll. Die einzelnen Kabel, beziehungsweise wofür jeweils die drei Farben stehen, werden im unten gezeigten Bild dargestellt. 
+
 
 Die Schaltung sieht wie folgt aus:
 
