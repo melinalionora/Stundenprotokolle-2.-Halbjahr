@@ -54,6 +54,8 @@ Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektse
 ## 23. Mai 2023
 Heute haben wir uns näher über die einzelnen Bauteile informiert, die wir benötigen. Da all diese Materialien in der Schule vorhanden sind, können wir unsere Idee umsetzen. Wir haben zunächst damit angefangen, herauszufinden was ein Entfernungssensor und ein Servomot überhaupt sind, bzw. was deren Funktionen sind. 
 
+## 15. Juni 2023
+Heute hatten wir unseren dritten Fachtag. Wir kamen heute besonders weit, da wir zuerst die Schaltung getätigt hzaben und anschließend den Quelltext vervollständigt haben. Wir haben den Servomotor mit dem Entfernungssensor zusammengeführt und anschließend zu einem Quelltext verfasst. Nun müssen wir noch basteln
 
 ## Teil1
 Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Wir haben uns an erster Stelle mit diesen Bauteilen vertraut gemacht und die Funktionen dieser kennengelernt. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
