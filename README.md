@@ -110,7 +110,7 @@ Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechen
 
 ![bsp arduino](image/IMG_3229.jpg "Screenshot von Arduino")
 
-```
+```c
 void loop()
 
 { //Im „loop“ wird über den write-Befehl „servoblau.write(Grad)“ das Servo angesteuert. Zwischen den einzelnen Positionen gibt es eine Pause, damit das Servo genug Zeit hat, die gewünschten Positionen zu erreichen.
