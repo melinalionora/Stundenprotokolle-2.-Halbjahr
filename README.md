@@ -96,7 +96,6 @@ Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Ma
 
 Ein Entfernungssensor misst den Abstand zwischen dem Sensor und einem Objekt. Dabei sendet der Sensor ein klickendes Geräusch im Ultraschall-Bereich aus, um anschließend die Verzögerung des Echos zu messen. Je größer der Abstand zum nächsten Objekt, desto später kommt der Echo zurück.
 
-![bsp_entfernungssensor](image/ultraschallsensor_arduino.jpg "Bild vom enternungssensor")
 
 Die Schaltung sieht wie folgt aus:
 
