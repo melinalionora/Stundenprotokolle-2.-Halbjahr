@@ -108,8 +108,10 @@ Die Schaltung sieht wie folgt aus:
 
 Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechend neue Kabel hinzugefügt:
 
-![bsp arduino](image/IMG_3229.jpg "Screenshot von Arduino")
+![bsp_schaltung2](image/IMG_3229.jpg "Bild schaltung2")
 
+
+Nun haben wir angefangen, unseren Quelltext zu schreiben, welcher beendet so aussieht. 
 
 ```c
 #include <Servo.h> //Die Servobibliothek wird aufgerufen. Sie wird benötigt, damit die Ansteuerung des Servos vereinfacht wird.
