@@ -181,9 +181,9 @@ Digital 7 -> Trigger Entfernungssensor
 
 Digital 8 -> orange Servo
 
-GND        -> minus Breadboard
+GND       -> minus Breadboard
 
-5v         -> plus  Breadboard
+5v        -> plus  Breadboard
 
 
 *Breadboard*
