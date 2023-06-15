@@ -98,7 +98,7 @@ Die Schaltung sieht wie folgt aus:
 
 Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechend neue Kabel hinzugefügt:
 
-
+![bsp arduino](image/IMG_3229.jpg "Screenshot von Arduino")
 
 
 
