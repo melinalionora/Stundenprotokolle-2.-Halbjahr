@@ -110,8 +110,7 @@ Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechen
 
 ![bsp arduino](image/IMG_3229.jpg "Screenshot von Arduino")
 
-<details>
-	<summary>Ausschnitt des Codes</summary>
+
 ```c
 void loop()
 
@@ -128,7 +127,7 @@ void loop()
   Serial.println(" cm"); 
 }
 ```
-</details>
+
 
 ## Reflexion 
 
