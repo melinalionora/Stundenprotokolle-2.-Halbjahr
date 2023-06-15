@@ -112,6 +112,31 @@ Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechen
 
 
 ```c
+#include <Servo.h> //Die Servobibliothek wird aufgerufen. Sie wird benötigt, damit die Ansteuerung des Servos vereinfacht wird.
+
+
+Servo servoblau; //Erstellt für das Programm ein Servo mit dem Namen „servoblau“
+
+int trigger=7; 
+int echo=6; 
+long zeit=0; 
+long entfernung=0; 
+
+
+void setup()
+
+{
+
+  servoblau.attach(8); //Das Setup enthält die Information, dass das Servo an der Steuerleitung (gelb) mit Pin 8 verbunden wird. Hier ist natürlich auch ein anderer Pin möglich.
+
+  Serial.begin(9600); 
+  pinMode(trigger, OUTPUT); 
+  pinMode(echo, INPUT); 
+
+}
+
+ 
+
 void loop()
 
 { //Im „loop“ wird über den write-Befehl „servoblau.write(Grad)“ das Servo angesteuert. Zwischen den einzelnen Positionen gibt es eine Pause, damit das Servo genug Zeit hat, die gewünschten Positionen zu erreichen.
@@ -125,6 +150,17 @@ void loop()
   entfernung = (zeit/2) * 0.03432; 
   Serial.print(entfernung); 
   Serial.println(" cm"); 
+
+  if(entfernung <10)
+  {
+    servoblau.write(0); //Position 1 ansteuern mit dem Winkel 0°
+  } 
+  else 
+  {    
+   servoblau.write(180); //Position 2 ansteuern mit dem Winkel 180°
+  }
+  
+  delay(1000);
 }
 ```
 
