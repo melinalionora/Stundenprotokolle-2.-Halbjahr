@@ -88,7 +88,9 @@ Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt
 
 Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Materialien: Arduino, Breadbord, Kabel, Entfernungssensor und Servomotor. Damit der Seifenspender funktionieren kann, benötigen wir theoretisch noch Seife, allerdings kann man auch Wasser oder andere ähnliche Flüßigkeiten nehmen. 
 
-![bsp arduino](image/IMG_3222.jpg "Screenshot von Arduino")
+Die Schaltung sieht wie folgt aus:
+
+![bsp_schaltung](image/IMG_3222.jpg "Bild Schaltung")
 
 ## Reflexion 
 
