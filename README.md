@@ -9,6 +9,8 @@ Ein Projekt von Lionora Ajvazi und Melina Safari.
 
 [Teilaufgaben](#Teilaufgaben)
 
+[Seifenspender](#Seifenspender)
+
 [Reflexion](#Reflexion)
 
 
@@ -82,9 +84,11 @@ Der Transistor hat bei dieser Teilaufgabe leider nicht so funktioniert, wie er s
 
 Bei dieser Teilaufgabe wurden die zwei längeren Kabel (blau und rot) umgesteckt, nämlich in die Öffnungen des Motors. Der sonstige Aufbau war der selbe, wie bei der dritten Teilaufgabe. 
 
-## Projekt berührungsloser Seifenspender
+## Seifenspender
 
 Für das Projekt des berührungslosen Seifenspenders benötigern wir folgende Materialien: Arduino, Breadbord, Kabel, Entfernungssensor und Servomotor. Damit der Seifenspender funktionieren kann, benötigen wir theoretisch noch Seife, allerdings kann man auch Wasser oder andere ähnliche Flüßigkeiten nehmen. 
+
+![bsp arduino](image/IMG_3222.jpg "Screenshot von Arduino")
 
 ## Reflexion 
 
