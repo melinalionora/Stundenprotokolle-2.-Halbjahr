@@ -187,6 +187,7 @@ minus -> GND Arduino; GND Entfernungssensor; GND Servo
 
 plus  -> 5V Arduino; VCC Entfernungssensor; plus Servo
 
+
 *Servo*
 
 braun  -> minus Breadboard; GND Arduino
@@ -194,6 +195,7 @@ braun  -> minus Breadboard; GND Arduino
 rot    -> plus Breadboard; 5V Arduino
 
 orange -> digital 8 Arduino
+
 
 *Entfernungssensor*
 
