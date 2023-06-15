@@ -110,7 +110,22 @@ Jetzt haben wir ebenfalls einen Entfernungssensor dazugeschaltet und entsprechen
 
 ![bsp arduino](image/IMG_3229.jpg "Screenshot von Arduino")
 
+```
+void loop()
 
+{ //Im „loop“ wird über den write-Befehl „servoblau.write(Grad)“ das Servo angesteuert. Zwischen den einzelnen Positionen gibt es eine Pause, damit das Servo genug Zeit hat, die gewünschten Positionen zu erreichen.
+
+  digitalWrite(trigger, HIGH); 
+  delay(10);
+  digitalWrite(trigger, LOW);
+
+  zeit = pulseIn(echo, HIGH); 
+
+  entfernung = (zeit/2) * 0.03432; 
+  Serial.print(entfernung); 
+  Serial.println(" cm"); 
+
+```
 
 
 ## Reflexion 
