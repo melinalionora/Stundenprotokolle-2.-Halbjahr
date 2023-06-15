@@ -5,7 +5,7 @@ Ein Projekt von Lionora Ajvazi und Melina Safari.
 ## Inhaltsverzeichnis
 [Stundenprotokolle](#Stundenprotokolle)
 
-[Bauteile](#Bauteile)
+[Teil1](#Teil1)
 
 [Teilaufgaben](#Teilaufgaben)
 
@@ -51,16 +51,18 @@ Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektse
 Heute haben wir uns näher über die einzelnen Bauteile informiert, die wir benötigen. Da all diese Materialien in der Schule vorhanden sind, können wir unsere Idee umsetzen. Wir haben zunächst damit angefangen, herauszufinden was ein Entfernungssensor und ein Servomot überhaupt sind, bzw. was deren Funktionen sind. 
 
 
-## Bauteile
-Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
+## Teil1
+Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Wir haben uns an erster Stelle mit diesen Bauteilen vertraut gemacht und die Funktionen dieser kennengelernt. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
 
 ## Arduino
-Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sonder um einen Microcontroller. 
+Ein Arduino ist eine Physical-Computing-Plattform, welche aus einer Soft- und einer Hardware besteht. Es handelt sich um ein Steuersystem, bei dem die Ausgänge je nach Programmierung und in Abhängigkeit der Eingänge reagieren. So werden bestimmte Abläufe automatisch gesteuert. Bei der Hardware handelt es sich hier jedoch nicht um einen Computer, sondern um einen Microcontroller. 
 
 ![bsp arduino](image/Bild1.png "Screenshot von Arduino")
 
 ## Transistor
 Ein Transistor ist ein elektronisches Halbleiter Bauelement zum Steuern oder Verstärken niedriger elektrischer Spannungen und Ströme. Er reguliert den Strom- oder Spannungsfluss wie ein Schalter für elektronische Signale und besteht aus drei Halbleiterschichten, dem Ermitter, der Base und dem Collector. Hierbei fließt der Strom und die Spannung von dem Collector, durch die Base hin zu dem Ermitter.  
+
+
 
 ## Relais 
 Ein Relais ist ein durch elektrischen Strom betriebener, fernbetätigter Schalter mit in der Regel zwei Schaltstellungen. Mit Hile von Relais von der Relais
