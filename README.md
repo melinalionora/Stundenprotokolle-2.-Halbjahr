@@ -45,17 +45,24 @@ Heute haben wir größtenteils an unserer Projektseite gearbeitet, da wir in den
 ## 05. April 2023
 Der heutige Tag war der Fachtag, an dem wir uns den gesamten Tag lang mit unserem Projekt, bzw, unserem Zwischenstand beschäftigt haben. Wir haben uns sowohl weiterhin mit dem Transistor beschäftigt und uns das ziel gesetzt, über einen Transistor ein LED zun leuchten zu bringen, als auch weiter an unserer Projektseite gearbeitet. Auch weitere Aufgaben, die wir an dem Tag zu erledigen hatten, konnten wir fertigstellen (siehe Teilaufgaben). 
 
+## 11. April 2023
+Heute haben wir größtenteils unsere Ergebnisse aus dem Fachtag weiterhin protokolliert, beziehungsweise die Teilaufgaben, welche wir meistern konnten. 
+
 ## 02. Mai 2023
-In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. 
+In der heutigen Stunde haben wir unsere Projektseite nochmal überarbeitet und unsere vorher notierten Stundenprotokolle vervollständigt. Für die weiteren Stunden haben wir nicht mehr viel zu tun, da wir ursprünglich eine erste Abgabe unseres Projektes tätigen wollten.
 
 ## 17. Mai 2023
-Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektseite weitergearbeitet und uns über mehrere Quellen informiert. Des weiteren haben wir uns noch einmal genau unsere Teilaufgaben angeschaut und haben darauf hin einen Quellentext geschrieben. Schlussendlich haben wir uns geeinigt, einen Berührungslosen Seifenspender zu bauen, dabei haben wir uns zunächst auf der Quelle https://starthardware.org/beruehrungsloser-seifenspender-mit-arduino/ darüber informiert. 
+Heute hatten wir unseren zweiten Fachtag, hierbei haben wir an unserer Projektseite weitergearbeitet und uns über mehrere Quellen informiert. Des weiteren haben wir uns noch einmal genau unsere Teilaufgaben angeschaut und haben darauf hin einen Quellentext geschrieben. Schlussendlich haben wir uns geeinigt, als endgültiges Projekt einen Berührungslosen Seifenspender zu bauen, dabei haben wir uns zunächst auf der Quelle https://starthardware.org/beruehrungsloser-seifenspender-mit-arduino/ darüber informiert. 
 
 ## 23. Mai 2023
-Heute haben wir uns näher über die einzelnen Bauteile informiert, die wir benötigen. Da all diese Materialien in der Schule vorhanden sind, können wir unsere Idee umsetzen. Wir haben zunächst damit angefangen, herauszufinden was ein Entfernungssensor und ein Servomot überhaupt sind, bzw. was deren Funktionen sind. 
+Heute haben wir uns näher über die einzelnen Bauteile informiert, die wir benötigen. Da all diese Materialien in der Schule vorhanden sind, können wir unsere Idee umsetzen. Wir haben zunächst damit angefangen, herauszufinden was ein Entfernungssensor und ein Servomotor überhaupt sind, bzw. was deren Funktionen sind. 
 
 ## 15. Juni 2023
-Heute hatten wir unseren dritten Fachtag. Wir kamen heute besonders weit, da wir zuerst die Schaltung getätigt hzaben und anschließend den Quelltext vervollständigt haben. Wir haben den Servomotor mit dem Entfernungssensor zusammengeführt und anschließend zu einem Quelltext verfasst. Nun müssen wir noch basteln
+Heute hatten wir unseren dritten Fachtag. Wir kamen heute besonders weit, da wir zuerst die Schaltung getätigt haben und anschließend den Quelltext vervollständigt haben. Wir haben den Servomotor mit dem Entfernungssensor zusammengeführt und anschließend zu einem Quelltext verfasst. 
+
+## 20. Juni 2023 
+Heute konnten wir unser Projekt vollständig abschließen. Die Schaltung haben wir bereits getätigt und es ist deutlich geworden, wie der berührungslose Seifenspender funktioniert. Daher, dass der Servomotor zu schwach ist, konnte er die Schnur, welche wir an den Seifenspender befestigen wollten, nicht runterdrücken. 
+Trotzdessen sind wir fertig geworden, auch mit unserer Projektseite.
 
 ## Teil1
 Für dieses Projekt haben wir veschieden Bauteile benötigt wie einen Arduino, Transistor, Relais, Motor, Netzgerät, LED-Lampe, Glühlampe und einen Widerstand. Wir haben uns an erster Stelle mit diesen Bauteilen vertraut gemacht und die Funktionen dieser kennengelernt. Im folgenden erklären wir die Funktionen der entscheidensten Bauteile. 
@@ -218,3 +225,9 @@ GND  -> minus Breadboard; GND Arduino
 ## Reflexion 
 
 Insgesamt können wir unsere ersten Erfahrungen mit dem Arduino als gelungen und Erfolgreich bewerten. Wir haben beide das erste mal mit einem Arduino gearbeitet und wollten, bzw. sollten erst einmal nur die Funktionen und Strukturen eines Arduinos herausfinden. Daher haben wir uns vorgenommen, uns mit oben genannten Teilaufgaben zu beschäftigen. Dabei haben wir dennoch Hilfe von Herrn Buhl erhalten und Tipps bekommen, wie wir welche Schritte zuerst umsetzen. 
+
+Als wir dann ungefähr das Prinzip solcher Bauteile verstehen konnten, haben wir uns ein Projekt ausgesucht, nämlich Teil2 und haben so angefangen, einen berührungslosen Seifenspender zu bauen. Zu beginn ist uns das nicht sehr gut gelungen, da wir jedes mal Schwierigkeiten mit der Umsetzung hatten und somit schnell aufgegeben haben. An unserem dritten Fachtag jedoch, haben wir uns dieser Herausforderung besonders gestellt und somit effektiv an dem Projekt gearbeitet. 
+
+Für die Zukunft haben wir uns vorgenommen, unser Vorwissen anzuwenden und Sachen auszuprobieren, egal ob sie beim ersten mal funktionieren, oder nicht. 
+
+Nichtsdestotrotz bewerten wir die Arbeit insgesamt als eine gute Erfahrung.
